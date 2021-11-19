@@ -71,7 +71,7 @@ body {
 #txt2 .t2 {
     font-size: 65px;
     margin-left: 100px;
-    animation: flicker 1.5s infinite alternate;
+    animation: flicker 3s infinite alternate;
     color: #fff;
 }
 
